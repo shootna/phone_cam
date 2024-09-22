@@ -17,3 +17,7 @@ self.recording_duration = 300  # 默认300秒
 self.max_files = 30  # 最多保存30个文件  
 self.max_size = 4 * 1024 * 1024 * 1024  # 4GB  
 ![image](https://github.com/user-attachments/assets/3ebd43f6-e846-47da-bfc9-4f038ff6c621)
+
+# 出现的问题（待修复）
+只能录制固定分辨率，横屏640*480，不然会录取播放失败
+后续有待改进新的版本，自适应分辨率
