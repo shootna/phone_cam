@@ -13,7 +13,7 @@ class CameraApp:
         self.label = Label(master)
         self.label.pack()
 
-        self.capture = cv2.VideoCapture("http://192.168.0.105:8080/video")  # 替换为你的URL
+        self.capture = cv2.VideoCapture("http://<phone_ip>:<port>/video")  # 替换为你的URL
         if not self.capture.isOpened():
             print("无法打开视频流")
             return
