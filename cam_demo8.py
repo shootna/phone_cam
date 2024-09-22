@@ -22,7 +22,7 @@ class CameraApp:
         # self.ip_entry.pack()
 
         # IP地址和端口输入
-        self.ip_var = StringVar(value="192.168.0.105")  # 默认IP地址
+        self.ip_var = StringVar(value="192.168.0.105")  # 默认IP地址（调试用）
         self.port_var = StringVar(value="8080")  # 默认端口
 
         self.ip_label = Label(master, text="摄像头 IP 地址:")
