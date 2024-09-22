@@ -1,5 +1,5 @@
 # phone_cam
-简单的监控程序，包含简单GUI，将手机当作监控摄像头使用，手机只作为摄像头方式使用，其他操作pc端完成，达到废旧手机二次利用  
+简单的ip摄像头监控程序，包含简单GUI，将手机当作ip监控摄像头使用，手机只作为摄像头方式使用，其他操作pc端完成，达到废旧手机二次利用  
 cam_demo、cam_demo2为最原始版本，cam_demo8为比较完善的版本  
 使用前提：安卓手机安装《ip Webcam》程序，运行准备调用：下载链接：https://apkpure.com/ip-webcam/com.pas.webcam/downloading  
 或者其他方式调用手机摄像头，自行探索。  
